@@ -7,3 +7,9 @@ Class: XII
 ---
 
 Belajar Branching Git
+
+---
+
+bikin .github\workflows\ci.yml
+
+...
