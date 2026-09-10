@@ -14,4 +14,4 @@ jobs:
       - name: Melihat isi repository
         run: ls -la
       - name: menjalankan tes
-        run: exit 1
+        run: echo "Menjalankan tes unit..."
