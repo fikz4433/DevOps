@@ -13,3 +13,5 @@ jobs:
         run: echo "CI berhasil dijalankan!"
       - name: Melihat isi repository
         run: ls -la
+      - name: menjalankan tes
+        run: exit 1
